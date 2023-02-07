@@ -122,4 +122,5 @@ Here are some ideas to get you started:
 
 [![Drip](https://github-readme-stats.vercel.app/api/pin/?username=redblue0216&theme=moltack&repo=Drip)](https://github.com/redblue0216/github-readme-stats)
 [![Cuber](https://github-readme-stats.vercel.app/api/pin/?username=redblue0216&theme=moltack&repo=Cuber)](https://github.com/redblue0216/github-readme-stats)
+[![FirstMatrixC](https://github-readme-stats.vercel.app/api/pin/?username=redblue0216&theme=moltack&repo=FirstMatrixC)](https://github.com/redblue0216/github-readme-stats)
 
