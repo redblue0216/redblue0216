@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-red)
 ![C++](https://img.shields.io/badge/-C++-red)
 ![Go](https://img.shields.io/badge/-Go-red)
+![Javascript](https://img.shields.io/badge/-Javascript-red)
 ![R](https://img.shields.io/badge/-R-red)
 ![Matlab](https://img.shields.io/badge/-Matlab-red)
 ![Shell](https://img.shields.io/badge/-Shell-red)
@@ -70,6 +71,7 @@ Here are some ideas to get you started:
 ![Gonum](https://img.shields.io/badge/-Gonum-red)
 ![Gosl](https://img.shields.io/badge/-Gosl-red)
 ![Dataframe-go](https://img.shields.io/badge/-Dataframego-red)
+![JAX](https://img.shields.io/badge/-JAX-red)
 
 + 算法框架
 
@@ -106,7 +108,8 @@ Here are some ideas to get you started:
 ![Logstash](https://img.shields.io/badge/-Logstash-red)
 ![Docker](https://img.shields.io/badge/-Docker-red)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-red)
-
+![Arrow](https://img.shields.io/badge/-Arrow-red)
+![Flink](https://img.shields.io/badge/-Flink-red)
 
 ## 我的github
 
