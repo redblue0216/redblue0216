@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 
 + Recommendable projects
 
-[![Drip](https://github-readme-stats.vercel.app/api/pin/?username=redblue0216&theme=moltack&repo=Drip)](https://github.com/redblue0216/github-readme-stats)
 [![Seaflow](https://github-readme-stats.vercel.app/api/pin/?username=redblue0216&theme=moltack&repo=Seaflow)](https://github.com/redblue0216/github-readme-stats)
 [![FirstMatrixC](https://github-readme-stats.vercel.app/api/pin/?username=redblue0216&theme=moltack&repo=FirstMatrixC)](https://github.com/redblue0216/github-readme-stats)
+
 
