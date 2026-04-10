@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 个人介绍
 
-+ 我是一名算法工程师，算法基础方向为概率统计-理论计量，擅长的算法应用方向为时间序列和优化；爱好数学、编程、电子竞技、篮球和吉他。
++ 我是一名算法工程师，算法基础方向为概率统计-理论计量(随机过程)，擅长的算法应用方向为时间序列和优化；爱好数学、编程、电子竞技、篮球和吉他。
 
 
 ## 我的技能
@@ -90,6 +90,9 @@ Here are some ideas to get you started:
 ![Mealpy](https://img.shields.io/badge/-Mealpy-red)
 ![Linearmodels](https://img.shields.io/badge/-Linearmodels-red)
 ![Geatpy](https://img.shields.io/badge/-Geatpy-red)
+![CBC](https://img.shields.io/badge/-CBC-red)
+![SCIP](https://img.shields.io/badge/-SCIP-red)
+![ORTools](https://img.shields.io/badge/-ORTools-red)
 
 + 其他工具
 
@@ -110,6 +113,7 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-red)
 ![Arrow](https://img.shields.io/badge/-Arrow-red)
 ![Flink](https://img.shields.io/badge/-Flink-red)
+![Podman](https://img.shields.io/badge/- Podman-red)
 
 ## 我的github
 
