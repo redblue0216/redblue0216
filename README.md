@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 
 + GitHub Top Languages  
 
-[![Top Langs](https://github-readme-stats-virid-xi-11.vercel.app/api/top-langs/?username=redblue0216&theme=moltack)](https://github.com/redblue0216/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-virid-xi-11.vercel.app/api/top-langs/?username=redblue0216&theme=moltack&exclude_langs=HTML)](https://github.com/redblue0216/github-readme-stats)  
 
 + Recommendable projects
 
